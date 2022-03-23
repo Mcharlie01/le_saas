@@ -1,0 +1,19 @@
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    li{
+        color: $main-color;
+    }
+
+    #logo{
+        img{
+            width: 100%;
+        }
+        height: $logo-taille;
+        width: $logo-taille;
+        
+    }
+}
+
+
